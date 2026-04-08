@@ -14,6 +14,12 @@ The project includes two main classes:
 - Place orders with specific quantities
 - Calculate total cost of an order
 - Print a receipt to the console
+  
+## Technologies
+- Java
+
+## Author
+Kaveesha Perera
 
 ## Example Usage
 
@@ -25,8 +31,5 @@ public class Main {
         order1.printReceipt();
     }
 }
-## Technologies
-- Java
 
-## Author
-Kaveesha Perera
+
